@@ -11,8 +11,10 @@
   "dependencies": {
     "@eslint/config-array": "^0.16.0",
     "@eslint/object-schema": "^2.1.4",
+    "@headlessui/react": "^2.1.0",
     "clsx": "^2.1.1",
     "eslint-config-prettier": "^9.1.0",
+    "formik": "^2.4.6",
     "next": "14.2.4",
     "prettier": "^3.3.2",
     "react": "^18",
