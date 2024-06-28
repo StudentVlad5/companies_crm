@@ -15,9 +15,10 @@ export default function Page({ params }: PageProps) {
   //     notFound()
   //   }
   // },[params.id])
-  return (
-    <>
-      <Header>Company ({params.id})</Header>
-    </>
+  return ( 
+    <div className="py-6 px-10">
+      <p>{`Information about company (${params.id})`}</p>
+    </div>
   );
+  {/* <Header>Company ({params.id})</Header> */}
 }
