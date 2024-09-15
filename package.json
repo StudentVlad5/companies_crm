@@ -12,13 +12,16 @@
     "@eslint/config-array": "^0.16.0",
     "@eslint/object-schema": "^2.1.4",
     "@headlessui/react": "^2.1.0",
+    "@tanstack/react-query": "^5.48.0",
+    "@tanstack/react-query-devtools": "^5.48.0",
     "clsx": "^2.1.1",
     "eslint-config-prettier": "^9.1.0",
     "formik": "^2.4.6",
     "next": "14.2.4",
     "prettier": "^3.3.2",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "react-query-devtools": "^2.6.3"
   },
   "devDependencies": {
     "@types/node": "^20",
